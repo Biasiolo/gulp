@@ -1,6 +1,6 @@
 {
   "name": "configured-gulp-environment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Gulp environment configured for web development",
   "main": "main.js",
   "repository": {
@@ -15,7 +15,19 @@
   },
   "author": "Biasiolo",
   "license": "MIT",
-  "keywords": ["gulp", "gulp config", "compile sass", "compress images", "compress js", "gulp-enviroment", "web development", "sass", "imagemin", "javascript", "build"],
+  "keywords": [
+    "gulp",
+    "gulp config",
+    "compile sass",
+    "compress images",
+    "compress js",
+    "gulp-enviroment",
+    "web development",
+    "sass",
+    "imagemin",
+    "javascript",
+    "build"
+  ],
   "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/preset-env": "^7.23.9",
