@@ -4,13 +4,11 @@
 
 ## Installation
 
-Before getting started, make sure you have Node.js and npm installed on your machine.
+Install the package from npm:
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/Biasiolo/configured-gulp-environment.git
-   ```
+    ```bash
+    npm install configured-gulp-environment
+    ```
 
 2. **Navigate to the Project Directory:**
 
