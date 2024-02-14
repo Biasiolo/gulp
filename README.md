@@ -4,7 +4,7 @@
 
 ## Installation
 
-Install the package from npm:
+1. **Install the package from npm:**
 
     ```bash
     npm install configured-gulp-environment
@@ -118,6 +118,4 @@ Contributions are welcome! If you encounter issues or have suggestions, please o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the wording or formatting to better suit your preferences!
+Biasiolo
