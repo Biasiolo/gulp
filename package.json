@@ -1,6 +1,6 @@
 {
   "name": "configured-gulp-environment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Gulp environment configured for web development",
   "main": "main.js",
   "repository": {
