@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCDG","file":"../main.css","sourcesContent":["@use 'variaveis';\r\n\r\nbody {\r\n    background-color: variaveis.$cor1;\r\n}","$corPrincipal: red;\r\n\r\n$cor1: rgb(131, 117, 117);"]}
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCDG","file":"../main.css","sourcesContent":["@use 'variaveis';\r\n\r\nbody {\r\n    background-color: variaveis.$cor1;\r\n}","$corPrincipal: rgb(182, 146, 146);\r\n\r\n$cor1: rgb(12, 11, 11);"]}

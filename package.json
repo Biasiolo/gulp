@@ -28,7 +28,8 @@
     "javascript",
     "enviroment",
     "gulp enviroment",
-    "build"
+    "build",
+    "obfuscate js"
   ],
   "devDependencies": {
     "@babel/core": "^7.23.9",

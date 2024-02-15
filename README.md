@@ -1,6 +1,6 @@
 # Configured Gulp Environment
 
-A pre-configured Gulp environment designed to streamline web development tasks. With this environment, you can easily compile Sass, compress images, and minify JavaScript for your projects.
+A pre-configured Gulp environment designed to streamline web development tasks. With this environment, you can easily compile Sass, compress images, minify and obfuscate JavaScript for your projects.
 
 ## Prerequisites
 
@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Keywords
 
-Gulp, Sass, Web Development, Minification, Image Compression, JavaScript Obfuscation, Watcher, Automation, Build Process, Frontend Development, Configuration.
+Gulp, Sass, Web Development, Minification, Image Compression, JavaScript Obfuscation, Watcher, Automation, Build Process, Frontend Development, Configuration, Obfuscate
