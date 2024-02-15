@@ -26,6 +26,8 @@
     "sass",
     "imagemin",
     "javascript",
+    "enviroment",
+    "gulp enviroment",
     "build"
   ],
   "devDependencies": {
