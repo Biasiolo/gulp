@@ -1,6 +1,13 @@
 # Configured Gulp Environment
 
-**configured-gulp-environment** is a pre-configured Gulp environment designed to streamline web development tasks. With this environment, you can easily compile Sass, compress images, and minify JavaScript for your projects.
+A pre-configured Gulp environment designed to streamline web development tasks. With this environment, you can easily compile Sass, compress images, and minify JavaScript for your projects.
+
+## Prerequisites
+
+Before you begin, make sure you have the following dependencies installed:
+
+- Node.js: [Node.js Installation](https://nodejs.org/)
+- npm: Typically comes with the Node.js installation
 
 ## Installation
 
@@ -21,50 +28,6 @@
    ```bash
    npm install
    ```
-
-## Usage
-
-This environment provides several Gulp tasks for different aspects of web development.
-
-### Compile Sass to CSS:
-
-```bash
-npm run compileSass
-```
-
-This task compiles Sass files located in the `source/styles/` directory and generates minified CSS in the `dist/styles/` directory.
-
-### Compress Images:
-
-```bash
-npm run compressImages
-```
-
-This task compresses images located in the `source/images/` directory and saves them in the `dist/images/` directory.
-
-### Minify JavaScript:
-
-```bash
-npm run minifyJS
-```
-
-This task minifies JavaScript files located in the `source/scripts/` directory and outputs them to the `dist/js/` directory.
-
-### Watch for Changes:
-
-```bash
-npm run watch
-```
-
-The watch task monitors changes in Sass, images, and JavaScript files, automatically triggering the corresponding tasks.
-
-### Default Task (Run All Tasks):
-
-```bash
-npm run build
-```
-
-The build task executes all the tasks (Sass compilation, image compression, and JavaScript minification) at once.
 
 ## How to Use
 
@@ -111,6 +74,19 @@ Now you're ready to develop with a configured Gulp environment!
 - `source/`: Contains the source files for Sass, images, and JavaScript.
 - `dist/`: The output directory where compiled and minified files are generated.
 
+## Additional Configuration
+
+If you want to customize or extend the default settings, follow these steps:
+
+Edit the Gulpfile:
+
+Open the `gulpfile.js` file and modify it as needed. You can add new tasks or adjust specific settings.
+
+Run Custom Tasks:
+
+After the changes, run custom tasks using npm commands.
+
+
 ## Contribution
 
 Contributions are welcome! If you encounter issues or have suggestions, please open an issue or submit a pull request.
@@ -118,4 +94,7 @@ Contributions are welcome! If you encounter issues or have suggestions, please o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Biasiolo
+
+## Keywords
+
+Gulp, Sass, Web Development, Minification, Image Compression, JavaScript Obfuscation, Watcher, Automation, Build Process, Frontend Development, Configuration.
