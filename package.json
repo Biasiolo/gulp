@@ -1,6 +1,6 @@
 {
   "name": "configured-gulp-environment",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A GULP environment configured for minify files, compress images, obfuscate js, and watch changes.",
   "main": "main.js",
   "repository": {
